@@ -1,5 +1,5 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 
-export default function App({ shoes, wait, ...props }) {
-  return <><h1>Hello World!</h1><p>This is a testbed for 2eJournal!</p></>;
+export default function App() {
+  return <h1>2eJournal!</h1>
 }
