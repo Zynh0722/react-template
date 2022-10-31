@@ -1,2 +1,2 @@
-# 2ejournal
-A cloud based journal for pathfinder2e
+# React-Template
+A simple react-express template
